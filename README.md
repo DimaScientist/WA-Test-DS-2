@@ -4,7 +4,7 @@
  
 ## Описание файлов
 
-__Summarizer.ipynb__ - Jupyter Notebook с тестовым пример для датасета с ирисами
+__Summarizer.ipynb__ - Jupyter Notebook с тестовым примером для датасета с ирисами
 
 __summirizer.py__ - Python-файл, который создает статитстику для датасета
 
